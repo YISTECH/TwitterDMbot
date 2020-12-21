@@ -55,9 +55,13 @@ and download the chrome driver for your device and unzip the zip file. Place it 
   ```
   ### INPUT FIELDS :
 username of your acc : (enter your twitter username)
+
 password of your acc : (enter your password of the twitter acc)
+
 to who do you want to send the message : (username of the person you want to send the message)
+
 content of the message : (what you want to type in the message)
+
 how many times : (number of times you want to spam the message)
 
 #### IF you liked this bot, make sure to follow me. Want to use this code, please credit me. 
